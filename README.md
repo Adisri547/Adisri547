@@ -50,7 +50,7 @@
 <h2 align="center">About this Account</h2>
  <p align="center">
   <a href="https://github.com/Adisri547" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     src="https://komarev.com/ghpvc/?username=Adisri547&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
 
  </p>
