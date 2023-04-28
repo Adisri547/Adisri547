@@ -21,7 +21,7 @@
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
 
-      <a href="20051653@kiit.ac.in" target="blank"><img align="center"
+      <a href="20051653@kiit.ac.in/" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
